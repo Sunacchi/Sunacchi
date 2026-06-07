@@ -1,133 +1,146 @@
-# Giuseppe Longobardi — Sunacchi
+<div align="center">
 
-Builder digitale per PMI.
+# Giuseppe Longobardi
 
-Realizzo siti web moderni, veloci e ottimizzati per la SEO, gestionali security-first e soluzioni digitali pensate per piccole e medie imprese.
+### Builder digitale per PMI e attività locali
 
-Il mio focus è semplice: aiutare attività locali e PMI a presentarsi meglio online, lavorare in modo più ordinato e comunicare con più efficacia.
+Realizzo siti web veloci, ottimizzati SEO, gestionali security-first e soluzioni digitali pensate per lavorare meglio, comunicare meglio e vendere meglio.
 
----
+Astro • Tauri • TypeScript • JavaScript • Rust • CSS • SEO • Social Media
 
-## Cosa realizzo
-
-### Siti web Astro ottimizzati SEO
-
-Creo siti web leggeri, veloci e curati, con attenzione a:
-
-- struttura SEO
-- performance
-- accessibilità
-- contenuti chiari
-- esperienza utente
-- pagine privacy/cookie
-- indicizzazione Google
-- presenza locale
-
-Ideale per attività locali, professionisti, ristorazione, servizi e PMI.
+</div>
 
 ---
 
-### Gestionali security-first per PMI
+## Cosa posso fare per la tua attività
 
-Sviluppo gestionali semplici e mirati per digitalizzare processi aziendali.
+<table>
+<tr>
+<td width="50%">
 
-Obiettivi principali:
+### Siti web Astro
 
-- dati organizzati
-- interfacce chiare
-- sicurezza prima di tutto
-- backup
-- gestione locale
-- semplicità d’uso
-- manutenzione nel tempo
+Siti moderni, veloci e ordinati per attività locali, professionisti e PMI.
 
-Tecnologie principali:
+- SEO tecnica
+- Performance elevate
+- Design responsive
+- Struttura chiara
+- Pagine privacy e cookie
+- Ottimizzazione Google
 
-- Tauri
-- Rust
-- TypeScript
-- SQLite
-- Astro
-- CSS
+</td>
+<td width="50%">
+
+### Gestionali security-first
+
+Software semplici per organizzare dati, clienti, pratiche e processi aziendali.
+
+- Interfacce chiare
+- Backup
+- Gestione locale
+- Sicurezza by design
+- Installazione semplice
+- Manutenzione nel tempo
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Presenza digitale
+
+Aiuto le attività a presentarsi meglio online.
+
+- Bio social
+- Contenuti Instagram/Facebook
+- Immagini coordinate
+- Google Business Profile
+- Tono di voce
+- Strategia base
+
+</td>
+<td width="50%">
+
+### Automazioni
+
+Soluzioni pratiche per ridurre lavoro manuale e confusione.
+
+- Workflow interni
+- Template operativi
+- Documenti digitali
+- Mini tool aziendali
+- Processi più ordinati
+- Supporto AI-assisted
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Gestione social e presenza digitale
+## Il mio approccio
 
-Supporto le attività anche nella comunicazione online:
+Non parto dal codice.  
+Parto dal problema reale dell’attività.
 
-- ottimizzazione profili social
-- bio e descrizioni professionali
-- contenuti per Instagram/Facebook
-- immagini coordinate
-- tono di voce
-- strategia base per attività locali
-- collegamento tra sito, Google Business Profile e social
+Creo soluzioni che devono essere:
 
----
-
-## Stack e strumenti
-
-Uso principalmente:
-
-- Astro
-- TypeScript
-- JavaScript
-- Rust
-- Tauri
-- CSS
-- SQLite
-- GitHub
-- strumenti AI-assisted
-
-Lavoro con un approccio pratico: parto dal problema reale dell’attività e costruisco una soluzione utile, leggera e mantenibile.
-
----
-
-## Metodo di lavoro
-
-Non creo software “tanto per fare codice”.
-
-Cerco di costruire strumenti che siano:
-
-- facili da usare
+- semplici da usare
 - veloci
-- sicuri
-- ordinati
-- comprensibili
+- sicure
+- ordinate
+- facili da mantenere
 - utili nel lavoro quotidiano
 
-Per me un buon progetto deve funzionare bene per chi lo usa, non solo per chi lo sviluppa.
+---
+
+## Stack principale
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+</p>
+
+Uso anche strumenti AI-assisted per accelerare prototipazione, analisi, sviluppo e revisione dei progetti.
 
 ---
 
 ## Focus 2026
 
-Sto lavorando su:
-
-- siti web Astro per PMI
-- SEO tecnica per attività locali
-- gestionali desktop con Tauri
-- sicurezza applicativa di base
-- automazioni per processi aziendali
-- presenza digitale integrata: sito, social e Google
+- Siti web Astro per PMI
+- SEO tecnica e local SEO
+- Gestionale desktop con Tauri
+- Sicurezza applicativa di base
+- UI moderne e leggibili
+- Presenza digitale integrata
+- Automazioni per piccole attività
 
 ---
 
-## Progetti principali
+## Progetti in evidenza
 
-Qui trovi alcuni progetti legati a:
+Consulta le repository fissate qui sotto per vedere:
 
-- siti web professionali
-- gestionali per PMI
+- siti web realizzati con Astro
+- gestionali desktop
+- template SEO
 - interfacce moderne
-- strumenti per attività locali
-- esperimenti con Astro, Tauri e TypeScript
+- soluzioni per attività locali
 
 ---
 
-## Contatti
+<div align="center">
 
-Email: g.longobardi95@gmail.com
+## Vuoi migliorare la presenza digitale della tua attività?
 
+Posso aiutarti a costruire un sito più veloce, ordinato e professionale, oppure un gestionale semplice per lavorare meglio.
+
+Email: g.longobardi95@gmail.com  
 GitHub: @Sunacchi
+
+</div>
