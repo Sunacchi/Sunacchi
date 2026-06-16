@@ -37,7 +37,7 @@ Il mio obiettivo non è “fare solo codice”, ma costruire strumenti che aiuta
 
 ### Gestionale online per ristoranti
 
-Sto sviluppando un gestionale SaaS per ristoranti, ispirato ai flussi operativi di strumenti come TheFork Manager, ma pensato per essere semplice, moderno e accessibile anche alle piccole attività.
+Sto sviluppando un gestionale SaaS per ristoranti, ma pensato per essere semplice, moderno e accessibile anche alle piccole attività e promuovere la crescita di reputazione.
 
 L’idea è creare una piattaforma completa per gestire:
 
