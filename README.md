@@ -1,81 +1,144 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:16a34a&height=210&section=header&text=Giuseppe%20Sunacchi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20digitale%20per%20PMI,%20attivit%C3%A0%20locali%20e%20ristorazione&descAlignY=58&descSize=18" />
+</p>
 
-# Giuseppe Longobardi
+<h3 align="center">
+  Siti web veloci, gestionali security-first e soluzioni digitali concrete per piccole imprese.
+</h3>
 
-### Builder digitale per PMI e attività locali
-
-Realizzo siti web veloci, ottimizzati SEO, gestionali security-first e soluzioni digitali pensate per lavorare meglio, comunicare meglio e vendere meglio.
-
-Astro • Tauri • TypeScript • JavaScript • Rust • CSS • SEO • Social Media
-
-</div>
+<p align="center">
+  <a href="mailto:g.longobardi95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contattami-2563eb?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sunacchi">
+    <img src="https://img.shields.io/badge/GitHub-Sunacchi-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Cosa posso fare per la tua attività
+## Ciao, sono Giuseppe
+
+Sono un builder digitale orientato a risultati pratici: progetto e sviluppo strumenti web per PMI, attività locali e ristoranti.
+
+Mi occupo di:
+
+- siti web moderni, veloci e ottimizzati SEO
+- gestionali web e desktop pensati per il lavoro quotidiano
+- interfacce chiare, responsive e semplici da usare
+- automazioni e workflow AI-assisted
+- presenza digitale per attività locali
+
+Il mio obiettivo non è “fare solo codice”, ma costruire strumenti che aiutano davvero un’attività a lavorare meglio, comunicare meglio e crescere online.
+
+---
+
+## Progetto in sviluppo
+
+### Gestionale online per ristoranti
+
+Sto sviluppando un gestionale SaaS per ristoranti, ispirato ai flussi operativi di strumenti come TheFork Manager, ma pensato per essere semplice, moderno e accessibile anche alle piccole attività.
+
+L’idea è creare una piattaforma completa per gestire:
+
+- menu digitale con QR code
+- ordini al tavolo senza pagamento online
+- report per cassa e personale
+- gestione tavoli e sale
+- raccolta dati clienti
+- reputazione Google e recensioni
+- marketing assistito da AI
+- dashboard per titolari e staff
+
+Stack principale del progetto:
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-16a34a?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0891b2?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+---
+
+## Cosa costruisco
 
 <table>
-<tr>
-<td width="50%">
-
-### Siti web Astro
-
-Siti moderni, veloci e ordinati per attività locali, professionisti e PMI.
-
-- SEO tecnica
-- Performance elevate
-- Design responsive
-- Struttura chiara
-- Pagine privacy e cookie
-- Ottimizzazione Google
-
-</td>
-<td width="50%">
-
-### Gestionali security-first
-
-Software semplici per organizzare dati, clienti, pratiche e processi aziendali.
-
-- Interfacce chiare
-- Backup
-- Gestione locale
-- Sicurezza by design
-- Installazione semplice
-- Manutenzione nel tempo
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Presenza digitale
-
-Aiuto le attività a presentarsi meglio online.
-
-- Bio social
-- Contenuti Instagram/Facebook
-- Immagini coordinate
-- Google Business Profile
-- Tono di voce
-- Strategia base
-
-</td>
-<td width="50%">
-
-### Automazioni
-
-Soluzioni pratiche per ridurre lavoro manuale e confusione.
-
-- Workflow interni
-- Template operativi
-- Documenti digitali
-- Mini tool aziendali
-- Processi più ordinati
-- Supporto AI-assisted
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3>Siti web per PMI</h3>
+      <p>
+        Siti veloci, ordinati e responsive per attività locali, professionisti e piccole imprese.
+      </p>
+      <ul>
+        <li>SEO tecnica</li>
+        <li>Performance elevate</li>
+        <li>Design responsive</li>
+        <li>Struttura chiara</li>
+        <li>Google Business Profile</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Gestionali su misura</h3>
+      <p>
+        Software pratici per organizzare dati, clienti, attività interne e processi aziendali.
+      </p>
+      <ul>
+        <li>Dashboard operative</li>
+        <li>Ruoli e permessi</li>
+        <li>Sicurezza by design</li>
+        <li>Backup e manutenzione</li>
+        <li>Interfacce semplici</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Presenza digitale</h3>
+      <p>
+        Aiuto le attività locali a presentarsi meglio online e a comunicare con più coerenza.
+      </p>
+      <ul>
+        <li>Bio e contenuti social</li>
+        <li>Immagine coordinata</li>
+        <li>Local SEO</li>
+        <li>Strategia base</li>
+        <li>Reputazione online</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>AI-assisted workflow</h3>
+      <p>
+        Uso strumenti AI per accelerare analisi, prototipazione, revisione e automazioni.
+      </p>
+      <ul>
+        <li>Template operativi</li>
+        <li>Mini tool interni</li>
+        <li>Automazioni semplici</li>
+        <li>Documenti digitali</li>
+        <li>Supporto ai processi</li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
+---
+
+## Stack principale
+
+<p>
+  <img src="https://img.shields.io/badge/Astro-111827?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-24c8db?style=for-the-badge&logo=tauri&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Supabase-16a34a?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0891b2?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
@@ -84,63 +147,40 @@ Soluzioni pratiche per ridurre lavoro manuale e confusione.
 Non parto dal codice.  
 Parto dal problema reale dell’attività.
 
-Creo soluzioni che devono essere:
+Per me un buon progetto deve essere:
 
-- semplici da usare
-- veloci
-- sicure
-- ordinate
-- facili da mantenere
-- utili nel lavoro quotidiano
+- semplice da usare
+- veloce
+- sicuro
+- ordinato
+- facile da mantenere
+- utile nel lavoro quotidiano
 
 ---
 
-## Stack principale
+## Focus attuale
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+```txt
+2026
+├── Gestionale SaaS per ristoranti
+├── Siti web Astro per PMI e attività locali
+├── SEO tecnica e local SEO
+├── UI moderne, leggibili e responsive
+├── Automazioni AI-assisted
+└── Sicurezza applicativa di base
+GitHub
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sunacchi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunacchi&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-Uso anche strumenti AI-assisted per accelerare prototipazione, analisi, sviluppo e revisione dei progetti.
-
----
-
-## Focus 2026
-
-- Siti web Astro per PMI
-- SEO tecnica e local SEO
-- Gestionale desktop con Tauri
-- Sicurezza applicativa di base
-- UI moderne e leggibili
-- Presenza digitale integrata
-- Automazioni per piccole attività
-
----
-
-## Progetti in evidenza
-
-Consulta le repository fissate qui sotto per vedere:
-
-- siti web realizzati con Astro
-- gestionali desktop
-- template SEO
-- interfacce moderne
-- soluzioni per attività locali
-
----
-
-<div align="center">
-
-## Vuoi migliorare la presenza digitale della tua attività?
-
-Posso aiutarti a costruire un sito più veloce, ordinato e professionale, oppure un gestionale semplice per lavorare meglio.
-
-Email: g.longobardi95@gmail.com  
+Contatti
+Se hai una PMI, un’attività locale o un ristorante e vuoi migliorare la tua presenza digitale o costruire uno strumento su misura:
+Email: g.longobardi95@gmail.com
 GitHub: @Sunacchi
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:2563eb,100:0f172a&height=120&section=footer" />
+</p>
+```
 
-</div>
+Ho usato come riferimento il tuo profilo pubblico GitHub attuale: github.com/Sunacchi.
